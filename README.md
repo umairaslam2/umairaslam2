@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Enjoy while learning.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Whatsapp:</h3>
 <p align="left">
 </p>
 
