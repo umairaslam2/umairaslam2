@@ -96,7 +96,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-    </td>
+   
   </tr>
 
   <tr>
@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-    </td>
+  
   </tr>
 
   <tr>
@@ -119,7 +119,6 @@
     <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 
-    </td>
   </tr>
 
   <tr>
@@ -129,7 +128,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
     <img src="https://img.shields.io/badge/Thunder%20Client-5C4BDB?style=for-the-badge&logo=thunder-client&logoColor=white"/>
 
-    </td>
   </tr>
 </table>
 
